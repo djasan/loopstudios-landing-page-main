@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Alata-Regular";
+    src: url("../font/Alata-Regular.ttf");
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    
+  }
+#logo{
+  color: antiquewhite;
+}
+nav img{
+  width:70vh ;
+  height: 100px; ;
+}
+
+  #navbar li {
+    margin: 0;
+    padding: 0.3rem 0 0.3rem 1rem;
+    list-style: none;
+  }
+
+  ul {
+    padding-inline-start: 0;
+  }
+
+  #intro h1{
+display: flex;
+    color: blanchedalmond;
+  }
